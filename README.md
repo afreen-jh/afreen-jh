@@ -38,16 +38,12 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" alt="Afreen's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" alt="Afreen's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afreen-jh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
