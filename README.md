@@ -1,18 +1,28 @@
 # Hi, I'm Afreen 👋
-### 🤖 Data Science & Artificial Intelligence Student
+
+🤖 **Data Science & Artificial Intelligence Student**
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 **B.Tech CSE** Student specializing in **Data Science & AI**
-- 🐍 Passionate about **Python, Machine Learning, and Full-Stack Web Development**
-- 🚀 Working on AI-powered applications & real-time analytics dashboards
+
+- 🎓 **B.Tech CSE Student** specializing in **Data Science & AI**
+- 💡 Passionate about **Python, Machine Learning, Computer Vision, and Full-Stack Development**
+- 🚀 Building AI-powered web applications & real-time analytics dashboards
+- 📫 **Reach out:** Connect with me on [LinkedIn](https://linkedin.com)
 
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,mongodb,react,html,css,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -21,15 +31,16 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🍽️ **[SmartPlate AI](https://github.com/afreen-jh/smartplate-ai-frontend)** | AI-powered food waste analytics & demand forecasting dashboard | `React` `JavaScript` `AI` |
-| 📄 **[AI Resume Analyser](https://github.com/afreen-jh/ai-resume-analyser-ats-checker)** | Real-time resume optimizer against Applicant Tracking Systems (ATS) | `JavaScript` `AI` `Python` |
-| 🌤️ **[AQI & Weather Dashboard](https://github.com/afreen-jh/aqi-weather-dashboard)** | Real-time weather & Air Quality Index dashboard with JWT authentication | `JavaScript` `MongoDB` `Node.js` |
+| 🎓 **[AI Attendance System](https://github.com/afreen-jh/AI-Attendance-System)** | Real-time facial recognition attendance system with live camera verification & analytics export | `Python` `OpenCV` `Streamlit` |
+| 🍽️ **[SmartPlate AI](https://github.com/afreen-jh)** | AI-powered food waste analytics & demand forecasting dashboard | `React` `JavaScript` `AI` |
+| 📄 **[AI Resume Analyser](https://github.com/afreen-jh)** | Real-time resume optimizer against Applicant Tracking Systems (ATS) | `JavaScript` `AI` `Python` |
+| 🌤️ **[AQI & Weather Dashboard](https://github.com/afreen-jh)** | Real-time weather & Air Quality Index dashboard with JWT authentication | `JavaScript` `MongoDB` `Node.js` |
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/afreen-914894419" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" height="175"/>
 </p>
