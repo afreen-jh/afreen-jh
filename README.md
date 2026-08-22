@@ -41,9 +41,16 @@
 ### 📈 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" alt="Afreen's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=afreen-jh&theme=tokyonight&margin-w=15&column=4" alt="Afreen Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Let's build something awesome together. ✨</i>
 </p>
