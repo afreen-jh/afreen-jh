@@ -37,16 +37,19 @@
 | 🌤️ **[AQI & Weather Dashboard](https://github.com/afreen-jh)** | Real-time weather & Air Quality Index dashboard with JWT authentication | `JavaScript` `MongoDB` `Node.js` |
 
 ---
+---
 
-### 📈 GitHub Activity & Metrics
+### ⚡ What I'm Up To
+- 🔭 Working on: **AI-Powered Real-Time Analytics & CV Applications**
+- 🧠 Currently Learning: **Deep Learning, LLMs, and Advanced Computer Vision**
+- 💬 Ask me about: **Python, Streamlit, OpenCV, and React**
+
+---
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afreen-jh&theme=tokyonight&margin-w=15&column=4" alt="Afreen Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afreen-jh&theme=tokyo-night&bg_color=1a1b26&hide_border=true" alt="Afreen's Contribution Graph" width="100%" />
 </p>
 
 ---
