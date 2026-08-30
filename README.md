@@ -16,18 +16,20 @@
 ### 🐱 Profile Mascot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnZyeTFtdDFmdGNuNmFvOWVwcmtzbHpycmR2Mnp0b3Brc21nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Pixel Cat Coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl3Ynh2Z3ZpZWZtYnV0ZXk4ODlsNmZ2bm03ZHlhZndyc3g0Mnl5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Pixel Coding Cat" />
 </p>
 
 ---
 
 ### 🐍 Contribution Activity 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -40,9 +42,23 @@
 | 🌤️ **[AQI & Weather Dashboard](https://github.com/afreen-jh/aqi-weather-dashboard)** | Real-time weather data & air quality index with JWT auth | MongoDB, Node.js, JWT |
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Afreen's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Daily Inspiration
+
+> *"The best way to predict the future is to invent it."*  
+> — **Alan Kay**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
