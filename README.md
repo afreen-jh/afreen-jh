@@ -16,7 +16,7 @@
 ### 🐱 Profile Mascot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl3Ynh2Z3ZpZWZtYnV0ZXk4ODlsNmZ2bm03ZHlhZndyc3g0Mnl5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Pixel Coding Cat" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2ZnZyeTFtdDFmdGNuNmFvOWVwcmtzbHpycmR2Mnp0b3Brc21nOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Pixel Cat Coding" />
 </p>
 
 ---
