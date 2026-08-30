@@ -40,16 +40,9 @@
 | 🌤️ **[AQI & Weather Dashboard](https://github.com/afreen-jh/aqi-weather-dashboard)** | Real-time weather data & air quality index with JWT auth | MongoDB, Node.js, JWT |
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afreen-jh&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Afreen's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afreen-jh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
