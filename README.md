@@ -16,12 +16,12 @@
 ### 🐱 Profile Mascot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl3Ynh2Z3ZpZWZtYnV0ZXk4ODlsNmZ2bm03ZHlhZndyc3g0Mnl5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Cat Coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl3Ynh2Z3ZpZWZtYnV0ZXk4ODlsNmZ2bm03ZHlhZndyc3g0Mnl5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Pixel Coding Cat" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afreen-jh/afreen-jh/output/github-contribution-grid-snake-dark.svg">
